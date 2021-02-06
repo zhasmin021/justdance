@@ -1,0 +1,25 @@
+
+.left_part{
+  display: table-cell;
+  margin-left: 10px;
+  top: 30px;
+  width: 27%;
+  height: 100%;
+}
+.main_part{
+  margin-left: 10px;
+  top: 30px;
+  width: 57%;
+  height: 1000%;
+  display: table-cell;
+}
+.all_parts{
+  display: table;
+}
+.right_part{
+  float: right;
+  margin-left: 10px;
+  top: 30px;
+  width: 27%;
+  height: 100%;
+}
